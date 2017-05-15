@@ -1,0 +1,2 @@
+# wannacry
+Wannacry decompiled
